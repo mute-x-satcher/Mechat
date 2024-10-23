@@ -1,4 +1,4 @@
-const socket = io('https://mechat-4ae1.onrender.com');
+const socket = io('http://localhost:7630);
 
 
 const form = document.getElementById('send-container');
