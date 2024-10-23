@@ -1,4 +1,4 @@
-const io = require('socket.io')(https://mechat-4ae1.onrender.com,{
+const io = require('socket.io')(7620,{
     cors:
     {
        origin: ['http://127.0.0.1:5500'] 
